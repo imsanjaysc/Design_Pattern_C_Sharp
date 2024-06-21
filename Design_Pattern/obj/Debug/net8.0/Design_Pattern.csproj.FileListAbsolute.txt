@@ -1,0 +1,14 @@
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\bin\Debug\net8.0\Design_Pattern.exe
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\bin\Debug\net8.0\Design_Pattern.deps.json
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\bin\Debug\net8.0\Design_Pattern.runtimeconfig.json
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\bin\Debug\net8.0\Design_Pattern.dll
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\bin\Debug\net8.0\Design_Pattern.pdb
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\Design_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\Design_Pattern.AssemblyInfoInputs.cache
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\Design_Pattern.AssemblyInfo.cs
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\Design_Pattern.csproj.CoreCompileInputs.cache
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\Design_Pattern.dll
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\refint\Design_Pattern.dll
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\Design_Pattern.pdb
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\Design_Pattern.genruntimeconfig.cache
+F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\obj\Debug\net8.0\ref\Design_Pattern.dll

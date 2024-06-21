@@ -1,0 +1,6 @@
+Singleton VS Static Class in C#
+-------------------------------------------
+https://dotnettutorials.net/lesson/singleton-vs-static-class/
+
+
+
