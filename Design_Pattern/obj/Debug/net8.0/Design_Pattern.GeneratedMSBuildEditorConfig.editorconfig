@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Design_Pattern
-build_property.ProjectDir = F:\Learning 2024 Practice\Design_Pattern\Design_Pattern\
+build_property.ProjectDir = F:\Learning 2024 Practice\Design Pattern C#\Design_Pattern_C_Sharp\Design_Pattern\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

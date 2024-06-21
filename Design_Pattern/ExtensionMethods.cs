@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace Design_Pattern
 {
     /*
@@ -18,7 +13,7 @@ namespace Design_Pattern
     public static class StringExtensions
     {
         public static string CapitalizeFirstLetter(this string str) {
-            if (!string.IsNullOrEmpty(str))
+            if (string.IsNullOrEmpty(str))
                 return str;
             return Char.ToUpper(str[0]) + str.Substring(1);
         }

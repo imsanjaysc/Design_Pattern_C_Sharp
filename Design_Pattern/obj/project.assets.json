@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Learning 2024 Practice\\Design_Pattern\\Design_Pattern\\Design_Pattern.csproj",
+      "projectUniqueName": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Design_Pattern.csproj",
       "projectName": "Design_Pattern",
-      "projectPath": "F:\\Learning 2024 Practice\\Design_Pattern\\Design_Pattern\\Design_Pattern.csproj",
+      "projectPath": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Design_Pattern.csproj",
       "packagesPath": "C:\\Users\\AstroSwamiG\\.nuget\\packages\\",
-      "outputPath": "F:\\Learning 2024 Practice\\Design_Pattern\\Design_Pattern\\obj\\",
+      "outputPath": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AstroSwamiG\\AppData\\Roaming\\NuGet\\NuGet.Config",
