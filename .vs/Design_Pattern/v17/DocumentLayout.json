@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\abstract_factory\\walletprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\abstract_factory\\walletprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\fluent\\example\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\fluent\\example\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\fluent\\example\\fluentconsultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\fluent\\example\\fluentconsultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\abstract_factory\\wallet_abstract_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\abstract_factory\\wallet_abstract_factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\abstract_factory\\walletfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\abstract_factory\\walletfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\factory\\modicareuserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\factory\\modicareuserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\factory\\factory_designpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\factory\\factory_designpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\singleton\\lazyloading_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\singleton\\lazyloading_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\singleton\\threadsafe_singleton_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\singleton\\threadsafe_singleton_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\singleton\\eagerloading_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\singleton\\eagerloading_singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|f:\\learning 2024 practice\\design pattern c#\\design_pattern_c_sharp\\design_pattern\\creational\\singleton\\singleton_designpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA472D9-EDF4-472F-94D7-9C87177AAAA5}|Design_Pattern\\Design_Pattern.csproj|solutionrelative:design_pattern\\creational\\singleton\\singleton_designpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FluentConsultant.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Fluent\\Example\\FluentConsultant.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Fluent\\Example\\FluentConsultant.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Fluent\\Example\\FluentConsultant.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Fluent\\Example\\FluentConsultant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:27:54.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consultant.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Fluent\\Example\\Consultant.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Fluent\\Example\\Consultant.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Fluent\\Example\\Consultant.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Fluent\\Example\\Consultant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:27:38.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalletProcessor.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Abstract_Factory\\WalletProcessor.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Abstract_Factory\\WalletProcessor.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Abstract_Factory\\WalletProcessor.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Abstract_Factory\\WalletProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:25:49.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wallet_Abstract_Factory.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Abstract_Factory\\Wallet_Abstract_Factory.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Abstract_Factory\\Wallet_Abstract_Factory.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Abstract_Factory\\Wallet_Abstract_Factory.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Abstract_Factory\\Wallet_Abstract_Factory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:23:54.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WalletFactory.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Abstract_Factory\\WalletFactory.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Abstract_Factory\\WalletFactory.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Abstract_Factory\\WalletFactory.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Abstract_Factory\\WalletFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:22:30.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModicareUserfactory.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Factory\\ModicareUserfactory.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Factory\\ModicareUserfactory.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Factory\\ModicareUserfactory.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Factory\\ModicareUserfactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:17:52.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factory_DesignPattern.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Factory\\Factory_DesignPattern.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Factory\\Factory_DesignPattern.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Factory\\Factory_DesignPattern.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Factory\\Factory_DesignPattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:17:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThreadSafe_Singleton_Example.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Singleton\\ThreadSafe_Singleton_Example.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Singleton\\ThreadSafe_Singleton_Example.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Singleton\\ThreadSafe_Singleton_Example.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Singleton\\ThreadSafe_Singleton_Example.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:41:32.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EagerLoading_Singleton.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Singleton\\EagerLoading_Singleton.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Singleton\\EagerLoading_Singleton.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Singleton\\EagerLoading_Singleton.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Singleton\\EagerLoading_Singleton.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:41:09.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LazyLoading_Singleton.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Singleton\\LazyLoading_Singleton.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Singleton\\LazyLoading_Singleton.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Singleton\\LazyLoading_Singleton.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Singleton\\LazyLoading_Singleton.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:07:16.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Singleton_DesignPattern.cs",
+              "DocumentMoniker": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Singleton\\Singleton_DesignPattern.cs",
+              "RelativeDocumentMoniker": "Design_Pattern\\Creational\\Singleton\\Singleton_DesignPattern.cs",
+              "ToolTip": "F:\\Learning 2024 Practice\\Design Pattern C#\\Design_Pattern_C_Sharp\\Design_Pattern\\Creational\\Singleton\\Singleton_DesignPattern.cs",
+              "RelativeToolTip": "Design_Pattern\\Creational\\Singleton\\Singleton_DesignPattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:03:44.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
